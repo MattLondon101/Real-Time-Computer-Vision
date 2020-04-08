@@ -14,5 +14,5 @@ This first example exhibits, first the sample video pre-object detection process
 
 Input Video (41 seconds)
 
-<a href="https://github.com/MattLondon101/VideoObjectDetection/blob/vids/PreProcessSampleVideo1.avi" target="_blank"><img src="https://github.com/MattLondon101/VideoObjectDetection/blob/master/ImageAI-master/data-images/PreProcessSampleVid1.jpg" alt="Pre-Processed Sample Video" width="240" height="180" border="10" /></a>
+[![](https://github.com/MattLondon101/VideoObjectDetection/blob/master/ImageAI-master/data-images/PreProcessSampleVid1.jpg)](https://github.com/MattLondon101/VideoObjectDetection/blob/vids/PreProcessSampleVideo1.avi)
 
