@@ -14,5 +14,5 @@ This first example exhibits, first the sample video pre-object detection process
 
 Input Video (41 seconds)
 
-[![](http://i3.ytimg.com/vi/7m-O_Zfpcfs/hqdefault.jpg)](https://www.youtube.com/watch?v=7m-O_Zfpcfs&feature=youtu.be)
+[![](http://i3.ytimg.com/vi/7m-O_Zfpcfs/hqdefault.jpg)](https://www.youtube.com/embed/7m-O_Zfpcfs)
 
