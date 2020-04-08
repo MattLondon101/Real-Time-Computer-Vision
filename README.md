@@ -14,5 +14,5 @@ This first example exhibits, first the sample video pre-object detection process
 
 Input Video (41 seconds)
 
-[![](https://github.com/MattLondon101/VideoObjectDetection/blob/master/ImageAI-master/data-images/PreProcessSampleVid1.jpg)](https://youtu.be/7m-O_Zfpcfs)
+[![](http://i3.ytimg.com/vi/7m-O_Zfpcfs/hqdefault.jpg)](https://youtu.be/7m-O_Zfpcfs)
 
