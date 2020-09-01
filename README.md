@@ -1,4 +1,4 @@
-# VideoObjectDetection
+# Video Object Detection
 Code and instructions for computer vison object detection in live video.
 
 ## **ImageAI Video Object Detection**
