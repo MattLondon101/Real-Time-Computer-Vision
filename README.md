@@ -1,5 +1,5 @@
 # Video Object Detection
-Code and instructions for computer vison object detection in live video.
+Code and instructions for computer vision object detection in live video.
 
 ## **ImageAI Video Object Detection**
 ImageAI is excellent Python software for Computer Vison object detection in still images and video.
